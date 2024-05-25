@@ -1,1 +1,1 @@
-![JinRecords](gitartwork.svg)
+![Git Artwork](./gitartwork.svg)
