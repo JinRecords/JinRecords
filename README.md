@@ -1,6 +1,6 @@
 ### Hi, I'm
 ![Git Artwork](./gitartwork.svg)
-
+![](https://komarev.com/ghpvc/?username=JinRecords&color=466d1d)
 <div align="center">
 
   ## Toolbelt:
@@ -28,5 +28,3 @@
   <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=&logoColor=white" alt="Processing IDE" />
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=JinRecords&color=32612d)
