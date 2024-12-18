@@ -29,3 +29,4 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=JinRecords&color=32612d)
